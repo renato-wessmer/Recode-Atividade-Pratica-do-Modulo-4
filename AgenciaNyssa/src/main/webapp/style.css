@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.topo{
+    background-color:rgb(245, 140, 20, 0.60);
+    padding: 50px 0px;
+    min-height: 300px;
+}
+
+.divisor-white{
+    width: 30px;
+    margin: 25px auto;
+    border-top: 3px solid #43F063 ;
+}
+
+.text-color1{
+    color: #43F063;
+}
+
+.depoimentos{
+    background-color:rgb(255, 255, 255, 0.01);
+    padding: 50px 0px;
+    min-height: 300px;    
+}
+
+.faixa{
+    background-color:rgb(245, 140, 20, 0.60);
+    padding: 25px 0px;
+    min-height: 25px;
+}
+
